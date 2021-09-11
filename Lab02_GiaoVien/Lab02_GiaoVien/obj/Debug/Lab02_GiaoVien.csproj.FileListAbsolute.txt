@@ -1,0 +1,12 @@
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.csproj.AssemblyReference.cache
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.frmGV.resources
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.Properties.Resources.resources
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.csproj.GenerateResource.cache
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.csproj.CoreCompileInputs.cache
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.Form2.resources
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.Form3.resources
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\bin\Debug\Lab02_GiaoVien.exe.config
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\bin\Debug\Lab02_GiaoVien.exe
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\bin\Debug\Lab02_GiaoVien.pdb
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.exe
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_GiaoVien\Lab02_GiaoVien\obj\Debug\Lab02_GiaoVien.pdb

@@ -1,0 +1,10 @@
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\obj\Debug\Lab02_2.csproj.AssemblyReference.cache
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\obj\Debug\Lab02_2.Form1.resources
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\obj\Debug\Lab02_2.Properties.Resources.resources
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\obj\Debug\Lab02_2.csproj.GenerateResource.cache
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\obj\Debug\Lab02_2.csproj.CoreCompileInputs.cache
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\bin\Debug\Lab02_2.exe.config
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\bin\Debug\Lab02_2.exe
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\bin\Debug\Lab02_2.pdb
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\obj\Debug\Lab02_2.exe
+E:\LTCSDL\1910123_TranThanhHa_Lab02\Lab02_2\Lab02_2\obj\Debug\Lab02_2.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab02_GiaoVien.GiaoVien">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAAAAAAAEAAAAAABAAAACQAAICI=</HashCode>
+      <FileName>GiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_GiaoVien.DanhSachMonHoc">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkCAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>DanhSachMonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab02_GiaoVien.MonHoc">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAACAAAAAABAAAAAAABA=</HashCode>
+      <FileName>MonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
